@@ -1,6 +1,4 @@
-// App.jsx
-// Single-file one-page React component. Drop into a Create React App or Vite project's src/
-// Tailwind CSS classes are used for styling. If you don't use Tailwind, replace className values with your own CSS.
+// My first react app
 
 import React from "react";
 
